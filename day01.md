@@ -45,4 +45,17 @@ np.zeros(10)  # 10个0的数组
 np.ones(10)  #  10个1的数组
 
 np.zeros_like(ary)  # 全0的数组,数据格式同ary
+
+np.ons_like(ary)  # 全0的数组,数据格式同ary
 ```
+## 4.ndarry对象的属性
+---
+### 数组的维度
+> ary.shape
+### 元素的类型
+> ary.dtype
+### 数组元素的个数
+> ary.size
+### 数组元素的索引
+> ary[0]
+
